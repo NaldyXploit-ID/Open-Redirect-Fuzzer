@@ -1,0 +1,8 @@
+{
+  "name": "open-redirect-fuzzer",
+  "version": "0.1.0",
+  "description": "Demo package for Open-Redirect-Fuzzer",
+  "main": "assets/app.js",
+  "scripts": { "start": "node assets/app.js" },
+  "license": "MIT"
+}
